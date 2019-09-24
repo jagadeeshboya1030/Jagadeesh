@@ -1,1 +1,2 @@
  im new to linux os ihave knowledge on git 
+Second line for the revert commit
