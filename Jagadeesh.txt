@@ -1,2 +1,1 @@
  im new to linux os ihave knowledge on git 
-second line for the codes in Jagadeesh file
